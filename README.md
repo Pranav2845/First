@@ -1,2 +1,3 @@
 # First
-This is the first one
+This is the first one.
+Author - Pranav Pandey
